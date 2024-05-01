@@ -19,8 +19,8 @@ Meters: Self Consumption							7409600F-EC	SelfConsumption		virtual
 Meters: Import Meter		Inepro		PRO1-Mod	2.18		7409600F-EC	Purchased		physical
 Meters: Export Meter		Inepro		PRO1-Mod	2.18		7409600F-EC	FeedIn		physical
 Meters: Consumption Meter							7409600F-EC	Consumption		virtual
-Batteries: Battery 1.1		SolarEdge		SE Energy Bank	SMCU 1.1.35 DCDC 0.1.85 BMS 0.7.0					
-Inverters: Inverter 1		SolarEdge			SE4000H-RW000BNN4						
+Batteries: Battery 1.1		SolarEdge			SE Energy Bank	SMCU 1.1.35 DCDC 0.1.85 BMS 0.7.0					
+Inverters: Inverter 1		SolarEdge					SE4000H-RW000BNN4						
 
 
 Battery Storage information:
@@ -321,7 +321,7 @@ Timestamp			Power (W)	Battery State	Life Energy Discharged	Life Energy Charged
 2024-05-01 10:56:11		781.00		3		492572			495408
 
 Site power details for Meters:
-Date				Type					Value (W)
+Date			Type			Value (W)
 -----------------------------------------
 2024-04-30 11:00:00	 FeedIn			 0.0
 2024-04-30 11:15:00	 FeedIn			 0.0
@@ -806,7 +806,7 @@ Date				Type					Value (W)
 
 
 Site energy details for Meters:
-Date				Type					Value (Wh)
+Date			Type				Value (Wh)
 -----------------------------------------
 2024-04-30 11:00:00	 Purchased			 639.0
 2024-04-30 11:15:00	 Purchased			 710.0
